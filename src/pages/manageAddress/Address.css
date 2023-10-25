@@ -1,0 +1,67 @@
+.addressmain {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.addresscontainer {
+  border: 2px solid rgb(242, 242, 242);
+  background-color: snow;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.rowelement {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.width {
+  width: 50%;
+}
+
+.elementRight {
+  margin-right: 10px;
+}
+
+.elementLeft {
+  margin-left: 10px;
+}
+
+.textalignment {
+  text-align: start;
+}
+
+.addresscontent {
+  margin: 20px;
+}
+
+.addresstitle {
+  font-size: 13px;
+  display: flex;
+}
+
+.addressblock {
+  margin-top: 5px;
+  border: 2px solid rgb(242, 242, 242);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.margin {
+  margin-top: 10px;
+}
+
+.removetopmargin {
+  margin-top: -20px;
+}

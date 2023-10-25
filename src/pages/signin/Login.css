@@ -1,0 +1,30 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.logincontainer {
+  border: 2px solid rgb(242, 242, 242);
+  background-color: snow;
+  padding-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  width: 400px;
+  height: auto;
+  justify-content: center;
+  padding: 10px;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.or {
+  margin-left: 10px;
+  margin-right: 10px;
+}

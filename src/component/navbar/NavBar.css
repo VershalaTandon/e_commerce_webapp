@@ -1,0 +1,36 @@
+.navbar {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+.navbarBackground {
+  background-color: rgb(19, 19, 19);
+}
+
+.navlinksContent {
+  justify-content: flex-end;
+}
+
+.appTitle {
+  margin-top: 10px;
+  width: 100px;
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  margin-left: 20px;
+}
+
+.links {
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  font-size: 12px;
+}
